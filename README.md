@@ -3,6 +3,6 @@ Team 13 Senior Project 2020
 
 INSTALL INSTRUCTIONS:
 
-find instructions on how to install the apk (game) below:
+Pull the Math-a-Mole.apk from this repository, then find instructions on how to install the apk (game) onto your Oculus Quest below:
 
 https://uploadvr.com/how-to-sideload-apps-oculus-go/
